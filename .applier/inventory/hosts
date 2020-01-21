@@ -1,0 +1,7 @@
+[app-build]
+app-build
+
+[app-deploy]
+app-dev
+app-test
+app-prod
